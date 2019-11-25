@@ -16,9 +16,9 @@
   "author": "Evan You",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vuejs/vue-loader/issues"
+    "url": "https://github.com/aqkj/tang-vue-loader/issues"
   },
-  "homepage": "https://github.com/vuejs/vue-loader",
+  "homepage": "https://github.com/aqkj/tang-vue-loader",
   "gitHooks": {
     "pre-commit": "lint-staged"
   },
